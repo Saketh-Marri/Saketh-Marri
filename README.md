@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://github.com/Saketh-Marri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Saketh-Marri&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&layout=compact&langs_count=8&hide=HCL"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&layout=compact&langs_count=8&exclude_repo=Datascience"/>
 </a>
 </p>
 
