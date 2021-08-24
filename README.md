@@ -1,7 +1,16 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Saketh-Marri&repo=Saketh-Marri&countColorcountColor)
-<h1>Hi👋, I am Saketh Marri</h1>
 
+<h3 align="center">
+  Welcome to Jonah Lawrence's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+<h1>Hi👋, I am Saketh Marri</h1>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 I'm a 19-year-old CSE student from the India, who loves open source. I mainly code in Python and JavaScript, but I am always learning. I am currently working on a couple of open-source projects
 
 [![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
