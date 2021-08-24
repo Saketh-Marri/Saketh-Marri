@@ -22,7 +22,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/Saketh-Marri/github-readme-streak-stats -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri&theme=monokai-metallian" />
 </p> 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
