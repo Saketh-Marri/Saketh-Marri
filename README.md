@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saketh-marri-6a250b1b8/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.hackerrank.com/saketh_marri13"><img width="32px" alt="hackerrank" title="hackerrank" src="https://imgur.com/a/JVxNwuR"></a>
+  <a href="https://www.hackerrank.com/saketh_marri13"><img width="32px" alt="hackerrank" title="hackerrank" src="https://imgur.com/a/JVxNwuR.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
