@@ -20,10 +20,10 @@
  ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/Saketh-Marri/github-readme-streak-stats -->
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri](https://git.io/streak-stats)
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri](https://git.io/streak-stats)
+ <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
