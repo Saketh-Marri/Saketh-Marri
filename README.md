@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 )
 )](https://github.com/Saketh-Marri/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri)](https://github.com/Saketh-Marri/github-readme-stats)
