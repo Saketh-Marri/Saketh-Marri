@@ -2,9 +2,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Saketh-Marri&repo=Saketh-Marri&countColorcountColor)
 <h1>Hi everyone 👋</h1>
 
-[![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
-
 I'm a 19-year-old CSE student from the India, who loves open source. I mainly code in Python and JavaScript, but I am always learning. I am currently working on a couple of open-source projects
+
+[![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
 
 ### Languages & Tools 🛠
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
