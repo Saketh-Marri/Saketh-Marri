@@ -6,6 +6,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/saketh-marri-6a250b1b8/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.hackerrank.com/saketh_marri13"><img width="32px" alt="hackerrank" title="hackerrank" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 <h1>Hi👋, I am Saketh Marri</h1>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
