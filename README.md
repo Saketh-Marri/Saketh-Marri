@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=radical&hide=contribs,prs)
+[![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=merko&hide=contribs,prs)
 )
 )](https://github.com/Saketh-Marri/github-readme-stats)
 
