@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 [![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/Saketh-Marri/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&hide=JupyterNotebook&layout=compact)](https://github.com/Saketh-Marri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&exclude_repo=DataScience&layout=compact)](https://github.com/Saketh-Marri/github-readme-stats)
