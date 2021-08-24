@@ -20,8 +20,8 @@
   
 <p align="left">
 <a href="https://github.com/Saketh-Marri">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=Saketh-Marri&count_private=true&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&layout=compact&langs_count=8&exclude_repo=Datascience"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Saketh-Marri&count_private=true&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&layout=compact&langs_count=8&exclude_repo=Datascience"/>
 </a>
 </p>
 
