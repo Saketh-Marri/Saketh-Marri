@@ -2,7 +2,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Saketh-Marri&repo=Saketh-Marri&countColorcountColor)
 
 <h3 align="center">
-  Welcome to Jonah Lawrence's profile!
+  Welcome to Saketh Marri's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
