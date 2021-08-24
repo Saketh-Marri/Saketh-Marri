@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 
 [![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/Saketh-Marri/github-readme-stats)
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&exclude_repo=Datascience&layout=compact)](https://github.com/Saketh-Marri/github-readme-stats)
 
