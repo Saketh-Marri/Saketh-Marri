@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Saketh-Marri&repo=Saketh-Marri&countColorcountColor)
+
+[![MasterHead](your image link)](your GitHub link)
+
 [![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/Saketh-Marri/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&exclude_repo=Datascience&layout=compact)](https://github.com/Saketh-Marri/github-readme-stats)
