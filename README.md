@@ -16,7 +16,7 @@
 [![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
           
  
-## 📘 My first open source project
+## 📘 My first open source project - Hacktoberfest 2020
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
