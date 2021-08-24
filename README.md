@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Saketh-Marri&repo=Saketh-Marri&countColorcountColor)
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
-
 [![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
 
 [![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/Saketh-Marri/github-readme-stats)
