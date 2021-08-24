@@ -15,18 +15,6 @@
 
 [![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
           
- 
-## 📘 My first open source project - Hacktoberfest 2020
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/Saketh-Marri/Code-Overflow"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Code-Overflow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Saketh-Marri?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
 
  ## 📕 My Top projects
 
@@ -41,6 +29,19 @@
   <a href="https://github.com/Saketh-Marri/Datascience"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Datascience&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a> 
 </p>
         
+ 
+## 📘 My first open source project - Hacktoberfest 2020
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Saketh-Marri/Code-Overflow"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Code-Overflow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Saketh-Marri?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/Saketh-Marri/github-readme-streak-stats -->
