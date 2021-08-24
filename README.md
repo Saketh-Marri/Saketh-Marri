@@ -17,13 +17,12 @@
           
           
         
- ## 🔥 Streak stats
+## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/Saketh-Marri/github-readme-streak-stats -->
 
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri" />
 </p> 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
