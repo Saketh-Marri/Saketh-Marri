@@ -3,8 +3,6 @@
 
 [![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
 
-[![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saketh-Marri&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/Saketh-Marri/github-readme-stats)
-
 ### Languages & Tools 🛠
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
