@@ -36,8 +36,9 @@
   <a href="https://github.com/Saketh-Marri/Android"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Android&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/Saketh-Marri/Computer-Vision"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Computer-Vision&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
   <a href="https://github.com/Saketh-Marri/Full-Stack"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Full-Stack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-hovercard"></a>
-  <a href="https://github.com/Saketh-Marri/Python-Sql"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Python-Sql&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="DXsmiley/mathbot"></a>
-
+  <a href="https://github.com/Saketh-Marri/Python-Sql"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Python-Sql&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="DXsmiley/mathbot"></a>        
+  <a href="https://github.com/Saketh-Marri/Virtual-Internship-Programs"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Virtual-Internship-Programs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
+  <a href="https://github.com/Saketh-Marri/Datascience"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Datascience&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a> 
 </p>
         
 ## 🔥 Streak stats
@@ -99,6 +100,4 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-          
-  <a href="https://github.com/Saketh-Marri/Virtual-Internship-Programs"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Virtual-Internship-Programs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-    <a href="https://github.com/Saketh-Marri/Datascience"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Saketh-Marri&repo=Datascience&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a> 
+ 
