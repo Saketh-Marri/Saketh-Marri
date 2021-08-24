@@ -19,11 +19,9 @@
         
  ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/Saketh-Marri/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/Saketh-Marri/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saketh-Marri's streak" src="(https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri)](https://git.io/streak-stats)"/>
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saketh-Marri](https://git.io/streak-stats)
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
