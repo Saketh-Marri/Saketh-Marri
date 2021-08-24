@@ -13,11 +13,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-
-<h1>Hi👋, I am Saketh Marri</h1>
-
-I'm a 19-year-old CSE student from the India, who loves open source. I mainly code in Python and JavaScript, but I am always learning. I am currently working on a couple of open-source projects
-
 [![MasterHead](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Saketh-Marri)
 
 ### Languages & Tools 🛠
