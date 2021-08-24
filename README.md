@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 )
 )](https://github.com/Saketh-Marri/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&hide=Jupyter_Notebook)](https://github.com/Saketh-Marri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Marri&hide=jupyter_notebook&layout=compact)](https://github.com/Saketh-Marri/github-readme-stats)
