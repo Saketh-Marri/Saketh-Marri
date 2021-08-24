@@ -1,6 +1,6 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Saketh-Marri&repo=Saketh-Marri&countColorcountColor)
-<h1>Hi everyone 👋</h1>
+<h1>Hi👋, I am Saketh Marri</h1>
 
 I'm a 19-year-old CSE student from the India, who loves open source. I mainly code in Python and JavaScript, but I am always learning. I am currently working on a couple of open-source projects
 
